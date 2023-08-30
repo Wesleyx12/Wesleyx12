@@ -11,6 +11,8 @@
 
 - 📄 As minhas habilidades e informações sobre mim, podem ser encontradas em [https://www.linkedin.com/in/wesley-maciel-884a02238/](https://www.linkedin.com/in/wesley-maciel-884a02238/)
 
+- 👨‍💻 O meu mais recente projeto se encontra em [Projeto](https://youtu.be/4wzfDNctnPc)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wesley maciel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley maciel" height="30" width="40" /></a>
