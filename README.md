@@ -9,7 +9,7 @@
 
 - 📫Você me acha através do e-mail **wesleysmaciel12@gmail.com**
 
-- 📄 As minhas habilidades e informações sobre mim, podem ser encontradas em [https://www.linkedin.com/in/wesley-maciel-884a02238/](https://www.linkedin.com/in/wesley-maciel-884a02238/)
+- 📄 As minhas habilidades e informações sobre mim, podem ser encontradas em [linkedin](https://www.linkedin.com/in/wesley-maciel-884a02238/)
 
 - 👨‍💻 O meu mais recente projeto se encontra em [Projeto](https://youtu.be/4wzfDNctnPc)
 
